@@ -8,6 +8,8 @@ Aplicação web que utiliza **Inteligência Artificial** para transformar descri
 
 > 💡 Exemplo:
 > `"bola azul pingando"` → código CSS + renderização automática
+> ![DevClub-GeradordeIA-GoogleChrome2026-03-2114-26-03-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/173ad24d-1e82-4eb8-8d28-f44287e3cce9)
+
 
 Este projeto demonstra, na prática, como integrar IA ao fluxo de desenvolvimento front-end para aumentar produtividade e acelerar a prototipação de interfaces.
 
