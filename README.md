@@ -134,15 +134,9 @@ Contribuições são bem-vindas!
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
 ## 💼 Autor
 
-Desenvolvido por você 👨‍💻
+Desenvolvido por mim 👨‍💻
 📬 Aberto a oportunidades na área de desenvolvimento Front-End
 
 ---
