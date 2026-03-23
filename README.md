@@ -122,12 +122,6 @@ index.html
 
 ---
 
-## 📸 Preview do Projeto
-
-> *(adicione aqui um print ou gif do projeto rodando)*
-
----
-
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas!
